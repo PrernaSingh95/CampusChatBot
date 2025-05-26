@@ -45,7 +45,7 @@ public class CampusChatBot {
         knowledgeBase.put("courses", "We offer courses in engineering, management, arts, and science.");
         knowledgeBase.put("transport", "Bus services are available from 6 AM to 7 PM covering major city routes.");
         knowledgeBase.put("sports", "The campus has facilities for cricket, football, basketball, and a gym.");
-        knowledgeBase.put("fees", " the transport fee is 1200 and university fee is 170000.");
+        knowledgeBase.put("fee", " the transport fee is 1200 and university fee is 170000.");
         knowledgeBase.put("strength", "the strength in our university is about 1200000.");
     }
 }
